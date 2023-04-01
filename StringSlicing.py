@@ -1,0 +1,9 @@
+names="Mangesh,Pavan,Rushi,Arun"
+print(names[0:7])
+print(len(names))
+print(names[0:4])
+print(names[:5])
+print(names[:])
+print(names[0:-3])
+nm="Harry"
+print(nm[-4:-2])
