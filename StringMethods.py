@@ -11,3 +11,6 @@ print(Str.capitalize())
 str="Welcome to the console"
 print(str.center(50))
 print(Str1.count(" "))
+print(Str1.find("is"))
+
+print(Str.index("am"))
