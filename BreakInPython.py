@@ -1,3 +1,5 @@
-a=int(input("Enter a number"))
+a=int(input("Enter a number\n"))
 for i in range(12):
-    print("i",)
+    if(i==10):
+        break
+    print(a,"X",i+1,"= ",a*(i+1))
