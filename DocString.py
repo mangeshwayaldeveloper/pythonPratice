@@ -3,3 +3,4 @@ def square(n):
     print("Printin the square of the numbers",n*n)
 print(square.__doc__)
 square(4)
+print(square(5))
