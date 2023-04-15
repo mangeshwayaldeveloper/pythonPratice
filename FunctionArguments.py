@@ -7,4 +7,3 @@ name()
 def yourName(fname,mname="vithoba",lname="wayal"):
     print(fname,mname,lname)
 yourName("mangesh")
-
