@@ -1,0 +1,1 @@
+print(not 23=="answer")
