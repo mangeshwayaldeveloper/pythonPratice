@@ -5,3 +5,6 @@ def fibo(n):
         n=n+fibo(n-1)
     return n
 print(fibo(5))
+
+# s=set()
+# print(type(s))
