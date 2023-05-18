@@ -1,6 +1,7 @@
-num = int(input("Enter a number"))
-for i in range(num):
-    if (num % (i + 1) == 0):
-        print("Number is not prime")
-    else:
-        print("The Number is prime")
+# 0
+# 1
+# 2
+# 3
+listt = [34, 34, 4, 5, 54, 3, 3, 234, ]
+for i in (listt):
+    print(i)
