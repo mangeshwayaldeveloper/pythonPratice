@@ -1,0 +1,2 @@
+i am writing in this file this content will be show to me 
+i am using some characters which will provide new line.This content should go after the content which is already exists in file
