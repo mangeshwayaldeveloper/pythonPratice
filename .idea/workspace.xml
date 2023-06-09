@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="Assignment Questions">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assingment/Question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assingment/Question2_armstrong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_Handling/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonPratice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Map Filter/mapp.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NmGOA42xyGN6bLGTOwFZoynZqg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mange/PycharmProjects/PythonPractise&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonPractise" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonPractise" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mange\PycharmProjects\PythonPractise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Question2_armstrong">
+    <configuration name="Question2_armstrong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assingment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assingment/Question2_armstrong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="constructor_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs/constructor_program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firstc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs/firstc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="firstc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mange\PycharmProjects\PythonPractise\OOPs\firstc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="osPrograms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/osPrograms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Question2_armstrong" />
+        <item itemvalue="Python.constructor_program" />
+        <item itemvalue="Python.firstc (1)" />
+        <item itemvalue="Python.firstc" />
+        <item itemvalue="Python.osPrograms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="" />
+      <created>1680261808835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680261808835</updated>
+      <workItem from="1680261815008" duration="3627000" />
+      <workItem from="1680319265764" duration="7403000" />
+      <workItem from="1680337720621" duration="5953000" />
+      <workItem from="1680448157000" duration="434000" />
+      <workItem from="1680515820818" duration="3754000" />
+      <workItem from="1680521328618" duration="4685000" />
+      <workItem from="1680575005717" duration="1457000" />
+      <workItem from="1680577477433" duration="1515000" />
+      <workItem from="1680579319314" duration="408000" />
+      <workItem from="1680579853480" duration="1002000" />
+      <workItem from="1680596300016" duration="2737000" />
+      <workItem from="1680669889186" duration="1321000" />
+      <workItem from="1680671682029" duration="36000" />
+      <workItem from="1680674030362" duration="6698000" />
+      <workItem from="1680692918586" duration="4789000" />
+      <workItem from="1680704763314" duration="913000" />
+      <workItem from="1680772630967" duration="1922000" />
+      <workItem from="1680776495082" duration="2959000" />
+      <workItem from="1680784710072" duration="3504000" />
+      <workItem from="1680843667380" duration="6976000" />
+      <workItem from="1680852287126" duration="421000" />
+      <workItem from="1680862861749" duration="4868000" />
+      <workItem from="1680933299137" duration="11036000" />
+      <workItem from="1681020008914" duration="2459000" />
+      <workItem from="1681022579297" duration="582000" />
+      <workItem from="1681023199952" duration="578000" />
+      <workItem from="1681115784638" duration="343000" />
+      <workItem from="1681122560369" duration="28000" />
+      <workItem from="1681145367835" duration="2402000" />
+      <workItem from="1681210655061" duration="2429000" />
+      <workItem from="1681275637765" duration="469000" />
+      <workItem from="1681277063186" duration="33000" />
+      <workItem from="1681280219467" duration="2498000" />
+      <workItem from="1681293359199" duration="4392000" />
+      <workItem from="1681403838604" duration="1016000" />
+      <workItem from="1681473026037" duration="2024000" />
+      <workItem from="1681475074740" duration="2879000" />
+      <workItem from="1681550839137" duration="1994000" />
+      <workItem from="1681558659605" duration="554000" />
+      <workItem from="1681559234065" duration="508000" />
+      <workItem from="1681559763649" duration="796000" />
+      <workItem from="1681663762658" duration="1051000" />
+      <workItem from="1681734429296" duration="4735000" />
+      <workItem from="1681838017446" duration="1112000" />
+      <workItem from="1681879872070" duration="612000" />
+      <workItem from="1681971051552" duration="128000" />
+      <workItem from="1681983588482" duration="533000" />
+      <workItem from="1681993072438" duration="3794000" />
+      <workItem from="1682182631173" duration="2057000" />
+      <workItem from="1682267841747" duration="26000" />
+      <workItem from="1682271791387" duration="597000" />
+      <workItem from="1682429656118" duration="1488000" />
+      <workItem from="1682482998428" duration="2278000" />
+      <workItem from="1682517687960" duration="3241000" />
+      <workItem from="1682615909732" duration="1358000" />
+      <workItem from="1682824252771" duration="148000" />
+      <workItem from="1683128459966" duration="99000" />
+      <workItem from="1683223947213" duration="652000" />
+      <workItem from="1683225427869" duration="49000" />
+      <workItem from="1683526909776" duration="2418000" />
+      <workItem from="1683566494750" duration="74000" />
+      <workItem from="1683623027826" duration="3798000" />
+      <workItem from="1683688224473" duration="1020000" />
+      <workItem from="1683693710915" duration="2454000" />
+      <workItem from="1683783232486" duration="3592000" />
+      <workItem from="1683819484074" duration="29000" />
+      <workItem from="1683819583268" duration="3403000" />
+      <workItem from="1683870745547" duration="1622000" />
+      <workItem from="1683888733918" duration="1676000" />
+      <workItem from="1683911060343" duration="339000" />
+      <workItem from="1684050795784" duration="7523000" />
+      <workItem from="1684128068321" duration="182000" />
+      <workItem from="1684173943534" duration="334000" />
+      <workItem from="1684258657476" duration="478000" />
+      <workItem from="1684342571047" duration="602000" />
+      <workItem from="1684432468481" duration="2830000" />
+      <workItem from="1684602858158" duration="1273000" />
+      <workItem from="1684606452698" duration="77000" />
+      <workItem from="1685070550501" duration="434000" />
+      <workItem from="1685080032686" duration="1395000" />
+      <workItem from="1685105363948" duration="1207000" />
+      <workItem from="1685265828440" duration="14195000" />
+      <workItem from="1685361797906" duration="4080000" />
+      <workItem from="1685374384404" duration="3441000" />
+      <workItem from="1685440688372" duration="3140000" />
+      <workItem from="1685534688001" duration="3434000" />
+      <workItem from="1685538220181" duration="1629000" />
+      <workItem from="1685600285732" duration="710000" />
+      <workItem from="1685640354367" duration="2679000" />
+      <workItem from="1685727737899" duration="178000" />
+      <workItem from="1685992674125" duration="278000" />
+      <workItem from="1686032386447" duration="1240000" />
+      <workItem from="1686188430495" duration="272000" />
+      <workItem from="1686284971407" duration="3170000" />
+      <workItem from="1686296620002" duration="1076000" />
+      <workItem from="1686325070369" duration="2371000" />
+      <workItem from="1686327486959" duration="1484000" />
+    </task>
+    <task id="LOCAL-00042" summary="function">
+      <created>1682429754548</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1682429754548</updated>
+    </task>
+    <task id="LOCAL-00043" summary="function">
+      <created>1682483021023</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1682483021023</updated>
+    </task>
+    <task id="LOCAL-00044" summary="function">
+      <created>1682518339738</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1682518339738</updated>
+    </task>
+    <task id="LOCAL-00045" summary="function">
+      <created>1682520351050</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1682520351050</updated>
+    </task>
+    <task id="LOCAL-00046" summary="function">
+      <created>1682615970092</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1682615970092</updated>
+    </task>
+    <task id="LOCAL-00047" summary="patterns">
+      <created>1682617425891</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1682617425891</updated>
+    </task>
+    <task id="LOCAL-00048" summary="patterns">
+      <created>1683128519011</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1683128519011</updated>
+    </task>
+    <task id="LOCAL-00049" summary="patterns">
+      <created>1683225436653</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1683225436653</updated>
+    </task>
+    <task id="LOCAL-00050" summary="count number of digits">
+      <created>1683225468111</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1683225468112</updated>
+    </task>
+    <task id="LOCAL-00051" summary="base power">
+      <created>1683530042897</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1683530042901</updated>
+    </task>
+    <task id="LOCAL-00052" summary="base power">
+      <created>1683695208603</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1683695208603</updated>
+    </task>
+    <task id="LOCAL-00053" summary="course era and dictionary problems">
+      <created>1683911083589</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1683911083589</updated>
+    </task>
+    <task id="LOCAL-00054" summary="exception handling">
+      <created>1684054143284</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1684054143284</updated>
+    </task>
+    <task id="LOCAL-00055" summary="exception handling">
+      <created>1684059539341</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1684059539341</updated>
+    </task>
+    <task id="LOCAL-00056" summary="enumerate function and short hand function">
+      <created>1684060718881</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1684060718881</updated>
+    </task>
+    <task id="LOCAL-00057" summary="enumerate function">
+      <created>1684061230902</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1684061230902</updated>
+    </task>
+    <task id="LOCAL-00058" summary="enumerate function">
+      <created>1684173977567</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1684173977568</updated>
+    </task>
+    <task id="LOCAL-00059" summary="enumerate function">
+      <created>1684174269873</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1684174269873</updated>
+    </task>
+    <task id="LOCAL-00060" summary="prime num">
+      <created>1684258725298</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1684258725298</updated>
+    </task>
+    <task id="LOCAL-00061" summary="prime num">
+      <created>1684433541780</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1684433541781</updated>
+    </task>
+    <task id="LOCAL-00062" summary="prime num">
+      <created>1684434228198</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1684434228198</updated>
+    </task>
+    <task id="LOCAL-00063" summary="prime num">
+      <created>1684434691296</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1684434691296</updated>
+    </task>
+    <task id="LOCAL-00064" summary="prime num">
+      <created>1684435314350</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1684435314350</updated>
+    </task>
+    <task id="LOCAL-00065" summary="coursera program">
+      <created>1685270487435</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1685270487435</updated>
+    </task>
+    <task id="LOCAL-00066" summary="class introduction">
+      <created>1685280430987</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1685280430987</updated>
+    </task>
+    <task id="LOCAL-00067" summary="exception">
+      <created>1685280446776</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1685280446776</updated>
+    </task>
+    <task id="LOCAL-00068" summary="shortif in python">
+      <created>1685280471339</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1685280471340</updated>
+    </task>
+    <task id="LOCAL-00069" summary="import and if__name__=&quot;__main__&quot;">
+      <created>1685295681686</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1685295681686</updated>
+    </task>
+    <task id="LOCAL-00070" summary="import os creating folders and renaming folders">
+      <created>1685295719620</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1685295719620</updated>
+    </task>
+    <task id="LOCAL-00071" summary="file handling">
+      <created>1685378430133</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1685378430137</updated>
+    </task>
+    <task id="LOCAL-00072" summary="global and local variables">
+      <created>1685378455501</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1685378455501</updated>
+    </task>
+    <task id="LOCAL-00073" summary="readline">
+      <created>1685379531577</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1685379531577</updated>
+    </task>
+    <task id="LOCAL-00074" summary="readline">
+      <created>1685380993010</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1685380993010</updated>
+    </task>
+    <task id="LOCAL-00075" summary="lambda function">
+      <created>1685538322412</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1685538322413</updated>
+    </task>
+    <task id="LOCAL-00076" summary="seek and tell function">
+      <created>1685538350830</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1685538350830</updated>
+    </task>
+    <task id="LOCAL-00077" summary="readline function">
+      <created>1685538371253</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1685538371253</updated>
+    </task>
+    <task id="LOCAL-00078" summary="writeline function">
+      <created>1685538411033</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1685538411033</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Map function">
+      <created>1685538430643</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1685538430643</updated>
+    </task>
+    <task id="LOCAL-00080" summary="filter and map">
+      <created>1685553922131</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1685553922131</updated>
+    </task>
+    <task id="LOCAL-00081" summary="reduce function">
+      <created>1685641733066</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1685641733066</updated>
+    </task>
+    <task id="LOCAL-00082" summary="reduce function and its application">
+      <created>1685641785982</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1685641785982</updated>
+    </task>
+    <task id="LOCAL-00083" summary="fibonacci program using reduce function">
+      <created>1685642041087</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1685642041088</updated>
+    </task>
+    <task id="LOCAL-00084" summary="use of is">
+      <created>1685642935048</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1685642935048</updated>
+    </task>
+    <task id="LOCAL-00085" summary="filter">
+      <created>1685642951307</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1685642951307</updated>
+    </task>
+    <task id="LOCAL-00086" summary="fibonacci series using reduce">
+      <created>1685642974597</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1685642974597</updated>
+    </task>
+    <task id="LOCAL-00087" summary="map and reduce">
+      <created>1685642989446</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1685642989446</updated>
+    </task>
+    <task id="LOCAL-00088" summary="opps">
+      <created>1686288229522</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1686288229522</updated>
+    </task>
+    <task id="LOCAL-00089" summary="All Programs">
+      <created>1686327337914</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1686327337914</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Assignment Questions">
+      <created>1686335095842</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1686335095842</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="coursera program" />
+    <MESSAGE value="class introduction" />
+    <MESSAGE value="exception" />
+    <MESSAGE value="shortif in python" />
+    <MESSAGE value="import and if__name__=&quot;__main__&quot;" />
+    <MESSAGE value="import os creating folders and renaming folders" />
+    <MESSAGE value="file handling" />
+    <MESSAGE value="global and local variables" />
+    <MESSAGE value="readline" />
+    <MESSAGE value="lambda function" />
+    <MESSAGE value="seek and tell function" />
+    <MESSAGE value="readline function" />
+    <MESSAGE value="writeline function" />
+    <MESSAGE value="Map function" />
+    <MESSAGE value="filter and map" />
+    <MESSAGE value="reduce function" />
+    <MESSAGE value="reduce function and its application" />
+    <MESSAGE value="fibonacci program using reduce function" />
+    <MESSAGE value="use of is" />
+    <MESSAGE value="filter" />
+    <MESSAGE value="fibonacci series using reduce" />
+    <MESSAGE value="map and reduce" />
+    <MESSAGE value="opps" />
+    <MESSAGE value="All Programs" />
+    <MESSAGE value="Assignment Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment Questions" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonPractise$indexMethod.coverage" NAME="indexMethod Coverage Results" MODIFIED="1680951036826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuple" />
+    <SUITE FILE_PATH="coverage/PythonPractise$emp.coverage" NAME="emp Coverage Results" MODIFIED="1685600347978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$osPrograms.coverage" NAME="osPrograms Coverage Results" MODIFIED="1686032549633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$DoWhileInPython.coverage" NAME="DoWhileInPython Coverage Results" MODIFIED="1680684403247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$create_file.coverage" NAME="create_file Coverage Results" MODIFIED="1685365187505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$firstc__1_.coverage" NAME="firstc (1) Coverage Results" MODIFIED="1686285952356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
+    <SUITE FILE_PATH="coverage/PythonPractise$set2.coverage" NAME="set2 Coverage Results" MODIFIED="1681474986328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$main.coverage" NAME="main Coverage Results" MODIFIED="1680262068345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$recursionPro.coverage" NAME="recursionPro Coverage Results" MODIFIED="1683627641778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/PythonPractise$update.coverage" NAME="update Coverage Results" MODIFIED="1681993357544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$printKeys.coverage" NAME="printKeys Coverage Results" MODIFIED="1683822343053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/PythonPractise$TypeCasting.coverage" NAME="TypeCasting Coverage Results" MODIFIED="1680320342962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$varArgsKey.coverage" NAME="varArgsKey Coverage Results" MODIFIED="1680844762822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$String_formatting.coverage" NAME="String_formatting Coverage Results" MODIFIED="1682484361249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ConcatinatingTuple.coverage" NAME="ConcatinatingTuple Coverage Results" MODIFIED="1680937761913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuple" />
+    <SUITE FILE_PATH="coverage/PythonPractise$constructor_program.coverage" NAME="constructor_program Coverage Results" MODIFIED="1686287801529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Union_of_sets.coverage" NAME="Union_of_sets Coverage Results" MODIFIED="1681476624560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ImporThis.coverage" NAME="ImporThis Coverage Results" MODIFIED="1681022223555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Function_Fibonaci.coverage" NAME="Function_Fibonaci Coverage Results" MODIFIED="1681296723570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$multiplication_table.coverage" NAME="multiplication_table Coverage Results" MODIFIED="1684128172626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Pass.coverage" NAME="Pass Coverage Results" MODIFIED="1680772725992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Concatinating.coverage" NAME="Concatinating Coverage Results" MODIFIED="1680934386152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$differnce.coverage" NAME="differnce Coverage Results" MODIFIED="1681735560136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$CountMethTuple.coverage" NAME="CountMethTuple Coverage Results" MODIFIED="1680937973576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuple" />
+    <SUITE FILE_PATH="coverage/PythonPractise$old_aaproach.coverage" NAME="old_aaproach Coverage Results" MODIFIED="1684060878509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Enumerate_function" />
+    <SUITE FILE_PATH="coverage/PythonPractise$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1685279377009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$writing_file.coverage" NAME="writing file Coverage Results" MODIFIED="1685364902743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$tupleMethods1.coverage" NAME="tupleMethods1 Coverage Results" MODIFIED="1680937416759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuple" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Oops.coverage" NAME="Oops Coverage Results" MODIFIED="1685992731487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$VarArgsKey.coverage" NAME="VarArgsKey Coverage Results" MODIFIED="1680843916758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$enumerate_function_approach.coverage" NAME="enumerate_function_approach Coverage Results" MODIFIED="1684061514553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Enumerate_function" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Symmetric_difference.coverage" NAME="Symmetric_difference Coverage Results" MODIFIED="1681552194400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$iteration_over_dict.coverage" NAME="iteration_over_dict Coverage Results" MODIFIED="1683695365362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/PythonPractise$update_meth.coverage" NAME="update_meth Coverage Results" MODIFIED="1683822823261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Functions_factorial.coverage" NAME="Functions_factorial Coverage Results" MODIFIED="1681298495126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ContinueStatement.coverage" NAME="ContinueStatement Coverage Results" MODIFIED="1680695130856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Pattern.coverage" NAME="Pattern Coverage Results" MODIFIED="1682519615650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$dict2.coverage" NAME="dict2 Coverage Results" MODIFIED="1683694882932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/PythonPractise$VariableLengthArguments.coverage" NAME="VariableLengthArguments Coverage Results" MODIFIED="1680790938547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$GoodMorningSir.coverage" NAME="GoodMorningSir Coverage Results" MODIFIED="1680951411984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$intersection.coverage" NAME="intersection Coverage Results" MODIFIED="1681550956049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ListFirst.coverage" NAME="ListFirst Coverage Results" MODIFIED="1680847075837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$BasePower.coverage" NAME="BasePower Coverage Results" MODIFIED="1683529610491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$dictionary_pro.coverage" NAME="dictionary_pro Coverage Results" MODIFIED="1683871955869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$is.coverage" NAME="is Coverage Results" MODIFIED="1685642909896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Map,Filter,reduce,is" />
+    <SUITE FILE_PATH="coverage/PythonPractise$useOfFunction.coverage" NAME="useOfFunction Coverage Results" MODIFIED="1682429902589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1683871854631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$whileLoop.coverage" NAME="whileLoop Coverage Results" MODIFIED="1682518315485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Compherehension.coverage" NAME="Compherehension Coverage Results" MODIFIED="1680851077777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$returnFunction.coverage" NAME="returnFunction Coverage Results" MODIFIED="1682183165472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$fibonacii_recursion.coverage" NAME="fibonacii_recursion Coverage Results" MODIFIED="1683820734591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$append.coverage" NAME="append Coverage Results" MODIFIED="1683529606472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$codeWord_list.coverage" NAME="codeWord_list Coverage Results" MODIFIED="1685268085659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$list_and_nonlist_elements_together.coverage" NAME="list_and_nonlist_elements_together Coverage Results" MODIFIED="1685269526559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$PrintRange.coverage" NAME="PrintRange Coverage Results" MODIFIED="1680848035915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$WhileLoops.coverage" NAME="WhileLoops Coverage Results" MODIFIED="1680674539593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ElseWithWhile.coverage" NAME="ElseWithWhile Coverage Results" MODIFIED="1680676893636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ItemPresent.coverage" NAME="ItemPresent Coverage Results" MODIFIED="1680847482394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$making_directories.coverage" NAME="making_directories Coverage Results" MODIFIED="1685294965256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
+    <SUITE FILE_PATH="coverage/PythonPractise$seek.coverage" NAME="seek Coverage Results" MODIFIED="1685443004133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$MatchCasePython.coverage" NAME="MatchCasePython Coverage Results" MODIFIED="1681280824828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$set1.coverage" NAME="set1 Coverage Results" MODIFIED="1681299501418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$insert.coverage" NAME="insert Coverage Results" MODIFIED="1680867915555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$BuiltInFunctions.coverage" NAME="BuiltInFunctions Coverage Results" MODIFIED="1680695413341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$reverse_string.coverage" NAME="reverse_string Coverage Results" MODIFIED="1685105695434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$remove_directory.coverage" NAME="remove_directory Coverage Results" MODIFIED="1685362564540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
+    <SUITE FILE_PATH="coverage/PythonPractise$forLoop.coverage" NAME="forLoop Coverage Results" MODIFIED="1682518770275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$removeAndDiscard.coverage" NAME="removeAndDiscard Coverage Results" MODIFIED="1681994666073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$importing.coverage" NAME="importing Coverage Results" MODIFIED="1685293276646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$forLoopPractise.coverage" NAME="forLoopPractise Coverage Results" MODIFIED="1680776341806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$RequiredArguments.coverage" NAME="RequiredArguments Coverage Results" MODIFIED="1680788932362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$readline_Reading_marks.coverage" NAME="readline_Reading_marks Coverage Results" MODIFIED="1685379415240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$IfElse.coverage" NAME="IfElse Coverage Results" MODIFIED="1680521051313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$readlin_pr.coverage" NAME="readlin_pr Coverage Results" MODIFIED="1685441424185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$CountNumberOfDigits.coverage" NAME="CountNumberOfDigits Coverage Results" MODIFIED="1683223994735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$finally_block.coverage" NAME="finally_block Coverage Results" MODIFIED="1684054982145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Fibonacii.coverage" NAME="Fibonacii Coverage Results" MODIFIED="1681281448443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$replaceFile_list.coverage" NAME="replaceFile_list Coverage Results" MODIFIED="1685267253941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$MultiLineStrin.coverage" NAME="MultiLineStrin Coverage Results" MODIFIED="1680324890333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$String.coverage" NAME="String Coverage Results" MODIFIED="1680323879828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$count_letters_dictionary.coverage" NAME="count_letters_dictionary Coverage Results" MODIFIED="1685271631339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$DocString.coverage" NAME="DocString Coverage Results" MODIFIED="1680961013725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$StringSlicing.coverage" NAME="StringSlicing Coverage Results" MODIFIED="1680339198931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$checkIfItemExists.coverage" NAME="checkIfItemExists Coverage Results" MODIFIED="1681996062747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$lambda_functions.coverage" NAME="lambda_functions Coverage Results" MODIFIED="1685535336077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Function" />
+    <SUITE FILE_PATH="coverage/PythonPractise$UserInputTwo.coverage" NAME="UserInputTwo Coverage Results" MODIFIED="1680322243532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$del.coverage" NAME="del Coverage Results" MODIFIED="1681995251191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$filter.coverage" NAME="filter Coverage Results" MODIFIED="1685600342310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Map Filter" />
+    <SUITE FILE_PATH="coverage/PythonPractise$issuperset.coverage" NAME="issuperset Coverage Results" MODIFIED="1681737684491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$rename.coverage" NAME="rename Coverage Results" MODIFIED="1685295606495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
+    <SUITE FILE_PATH="coverage/PythonPractise$functionInstreadOfManual.coverage" NAME="functionInstreadOfManual Coverage Results" MODIFIED="1682430623909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$UserInput.coverage" NAME="UserInput Coverage Results" MODIFIED="1680321816390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$avg.coverage" NAME="avg Coverage Results" MODIFIED="1685535482952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Function" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Arithematic_exception.coverage" NAME="Arithematic_exception Coverage Results" MODIFIED="1684053612399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$tuple1.coverage" NAME="tuple1 Coverage Results" MODIFIED="1680936948991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuple" />
+    <SUITE FILE_PATH="coverage/PythonPractise$add.coverage" NAME="add Coverage Results" MODIFIED="1681838377187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$setUsingLoop.coverage" NAME="setUsingLoop Coverage Results" MODIFIED="1681475827544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$isSubset.coverage" NAME="isSubset Coverage Results" MODIFIED="1681738049592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Exception.coverage" NAME="Exception Coverage Results" MODIFIED="1684052522205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$append_file.coverage" NAME="append_file Coverage Results" MODIFIED="1685365074093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ExtendList.coverage" NAME="ExtendList Coverage Results" MODIFIED="1680934028518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$tell.coverage" NAME="tell Coverage Results" MODIFIED="1685443345544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$reduce.coverage" NAME="reduce Coverage Results" MODIFIED="1685641253263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Map Filter" />
+    <SUITE FILE_PATH="coverage/PythonPractise$WhilePractise.coverage" NAME="WhilePractise Coverage Results" MODIFIED="1680868320245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$NestedForLoop.coverage" NAME="NestedForLoop Coverage Results" MODIFIED="1682519435726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$shortHand_IF_two.coverage" NAME="shortHand_IF_two Coverage Results" MODIFIED="1685278907795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$fibonacii_using_reduce.coverage" NAME="fibonacii_using_reduce Coverage Results" MODIFIED="1685642006567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Map Filter" />
+    <SUITE FILE_PATH="coverage/PythonPractise$class_second.coverage" NAME="class_second Coverage Results" MODIFIED="1685278034268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
+    <SUITE FILE_PATH="coverage/PythonPractise$isdisjoint.coverage" NAME="isdisjoint Coverage Results" MODIFIED="1681735900297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$short_hand_if.coverage" NAME="short_hand_if Coverage Results" MODIFIED="1684060450556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Importable_file.coverage" NAME="Importable_file Coverage Results" MODIFIED="1685293272763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$BreakInPython.coverage" NAME="BreakInPython Coverage Results" MODIFIED="1680687420753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$FunctionArguments.coverage" NAME="FunctionArguments Coverage Results" MODIFIED="1680776206044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$pattern3.coverage" NAME="pattern3 Coverage Results" MODIFIED="1684432790678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$KeyWordArgument.coverage" NAME="KeyWordArgument Coverage Results" MODIFIED="1680784295926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$pops.coverage" NAME="pops Coverage Results" MODIFIED="1681995077613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$mapp.coverage" NAME="mapp Coverage Results" MODIFIED="1685538871733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Map Filter" />
+    <SUITE FILE_PATH="coverage/PythonPractise$writeLine.coverage" NAME="writeLine Coverage Results" MODIFIED="1685442184728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$truncate.coverage" NAME="truncate Coverage Results" MODIFIED="1685443834133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Question2_armstrong.coverage" NAME="Question2_armstrong Coverage Results" MODIFIED="1686326774656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assingment" />
+    <SUITE FILE_PATH="coverage/PythonPractise$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1685266054930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$class_first.coverage" NAME="class_first Coverage Results" MODIFIED="1685277630307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
+    <SUITE FILE_PATH="coverage/PythonPractise$StringMethods.coverage" NAME="StringMethods Coverage Results" MODIFIED="1680519955969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$GlobalVariable.coverage" NAME="GlobalVariable Coverage Results" MODIFIED="1681983921011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$CalculatorOfTwoNum.coverage" NAME="CalculatorOfTwoNum Coverage Results" MODIFIED="1680262073706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Operators.coverage" NAME="Operators Coverage Results" MODIFIED="1682484827692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$global_local.coverage" NAME="global_local Coverage Results" MODIFIED="1685363387556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/global vs local variable" />
+    <SUITE FILE_PATH="coverage/PythonPractise$AverageFun.coverage" NAME="AverageFun Coverage Results" MODIFIED="1680844811742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Recursioj.coverage" NAME="Recursioj Coverage Results" MODIFIED="1681145894757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$recursion_power_base.coverage" NAME="recursion_power_base Coverage Results" MODIFIED="1683889045506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$primeNumberPro.coverage" NAME="primeNumberPro Coverage Results" MODIFIED="1684435283651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$file_handing.coverage" NAME="file_handing Coverage Results" MODIFIED="1685363952012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$keywordArguments.coverage" NAME="keywordArguments Coverage Results" MODIFIED="1680789109919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$clear.coverage" NAME="clear Coverage Results" MODIFIED="1681995939413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$MultiplicationOfNumberUsingFor.coverage" NAME="MultiplicationOfNumberUsingFor Coverage Results" MODIFIED="1680598219620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$diction.coverage" NAME="diction Coverage Results" MODIFIED="1683693995550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/PythonPractise$printting_key_value.coverage" NAME="printting_key_value Coverage Results" MODIFIED="1683695670698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Match.coverage" NAME="Match Coverage Results" MODIFIED="1680596502116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$string_strip.coverage" NAME="string_strip Coverage Results" MODIFIED="1683891469240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$passing_function.coverage" NAME="passing_function Coverage Results" MODIFIED="1685535890779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Function" />
+    <SUITE FILE_PATH="coverage/PythonPractise$ElIF.coverage" NAME="ElIF Coverage Results" MODIFIED="1680523179476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$CustomeException.coverage" NAME="CustomeException Coverage Results" MODIFIED="1684055364975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$for_else.coverage" NAME="for_else Coverage Results" MODIFIED="1684051665847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$GreaterNumberOfThree.coverage" NAME="GreaterNumberOfThree Coverage Results" MODIFIED="1680523222256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$UserDefinfunction.coverage" NAME="UserDefinfunction Coverage Results" MODIFIED="1680696814528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$CopyMethod.coverage" NAME="CopyMethod Coverage Results" MODIFIED="1680865613566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Pattern2.coverage" NAME="Pattern2 Coverage Results" MODIFIED="1683128510528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$use_global.coverage" NAME="use_global Coverage Results" MODIFIED="1685363466644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/global vs local variable" />
+    <SUITE FILE_PATH="coverage/PythonPractise$Iterator.coverage" NAME="Iterator Coverage Results" MODIFIED="1680598160055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$enumerate_two.coverage" NAME="enumerate_two Coverage Results" MODIFIED="1684174136959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Enumerate_function" />
+    <SUITE FILE_PATH="coverage/PythonPractise$classes.coverage" NAME="classes Coverage Results" MODIFIED="1686285085828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
+    <SUITE FILE_PATH="coverage/PythonPractise$with_file.coverage" NAME="with_file Coverage Results" MODIFIED="1685365764945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$readline.coverage" NAME="readline Coverage Results" MODIFIED="1685378041852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$baseketballTeams.coverage" NAME="baseketballTeams Coverage Results" MODIFIED="1682520324661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$FString.coverage" NAME="FString Coverage Results" MODIFIED="1680958515161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$print_keys.coverage" NAME="print_keys Coverage Results" MODIFIED="1683695937452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
+    <SUITE FILE_PATH="coverage/PythonPractise$sorting.coverage" NAME="sorting Coverage Results" MODIFIED="1680862917798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
+    <SUITE FILE_PATH="coverage/PythonPractise$osList.coverage" NAME="osList Coverage Results" MODIFIED="1685362104497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
+  </component>
+</project>
