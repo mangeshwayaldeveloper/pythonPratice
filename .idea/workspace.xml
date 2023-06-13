@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="practise">
+    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="constructor">
+      <change afterPath="$PROJECT_DIR$/OS/constructor_parameterised.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/ClassObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/ClassObject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonPratice" beforeDir="false" afterPath="$PROJECT_DIR$/pythonPratice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <recent name="C:\Users\mange\PycharmProjects\PythonPractise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.constructor">
+  <component name="RunManager" selected="Python.constructor_parameterised">
     <configuration name="ClassObject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,28 +84,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPs/ClassObject.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Question10_upper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assingment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assingment/Question10_upper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,13 +158,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="constructor_parameterised" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OS/constructor_parameterised.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.constructor_parameterised" />
         <item itemvalue="Python.constructor" />
         <item itemvalue="Python.ClassObject" />
         <item itemvalue="Python.Question12_grossPay" />
         <item itemvalue="Python.Question11" />
-        <item itemvalue="Python.Question10_upper" />
       </list>
     </recent_temporary>
   </component>
@@ -298,14 +298,8 @@
       <workItem from="1686366408659" duration="121000" />
       <workItem from="1686371299105" duration="1078000" />
       <workItem from="1686385485846" duration="1310000" />
-      <workItem from="1686681140087" duration="1513000" />
-    </task>
-    <task id="LOCAL-00048" summary="patterns">
-      <created>1683128519011</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1683128519011</updated>
+      <workItem from="1686681140087" duration="1611000" />
+      <workItem from="1686683037084" duration="208000" />
     </task>
     <task id="LOCAL-00049" summary="patterns">
       <created>1683225436653</created>
@@ -643,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686366516445</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="constructor">
+      <created>1686682735260</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1686682735260</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +662,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="file handling" />
     <MESSAGE value="global and local variables" />
     <MESSAGE value="readline" />
     <MESSAGE value="lambda function" />
@@ -686,7 +686,8 @@
     <MESSAGE value="Assignment Question 4 factorial" />
     <MESSAGE value="Assignment all questions" />
     <MESSAGE value="practise" />
-    <option name="LAST_COMMIT_MESSAGE" value="practise" />
+    <MESSAGE value="constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonPractise$indexMethod.coverage" NAME="indexMethod Coverage Results" MODIFIED="1680951036826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuple" />
@@ -787,6 +788,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$issuperset.coverage" NAME="issuperset Coverage Results" MODIFIED="1681737684491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
     <SUITE FILE_PATH="coverage/PythonPractise$rename.coverage" NAME="rename Coverage Results" MODIFIED="1685295606495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
     <SUITE FILE_PATH="coverage/PythonPractise$functionInstreadOfManual.coverage" NAME="functionInstreadOfManual Coverage Results" MODIFIED="1682430623909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$constructor_parameterised.coverage" NAME="constructor_parameterised Coverage Results" MODIFIED="1686683237224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OS" />
     <SUITE FILE_PATH="coverage/PythonPractise$UserInput.coverage" NAME="UserInput Coverage Results" MODIFIED="1680321816390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonPractise$avg.coverage" NAME="avg Coverage Results" MODIFIED="1685535482952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Function" />
     <SUITE FILE_PATH="coverage/PythonPractise$Arithematic_exception.coverage" NAME="Arithematic_exception Coverage Results" MODIFIED="1684053612399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
