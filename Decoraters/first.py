@@ -4,6 +4,11 @@ def greet(fx):
   fx()
   print("Thanks for using this function")
   return mfx()
+
+
+
 @greet
 def hello():
- print()
+ print("hello world ")
+
+hello()
