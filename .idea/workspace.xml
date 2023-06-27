@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="decorators">
-      <change afterPath="$PROJECT_DIR$/nested_functions/function_as_value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_functions/passing_function_two.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +312,7 @@
       <workItem from="1688394203853" duration="1788000" />
       <workItem from="1688396064452" duration="264000" />
       <workItem from="1688445631713" duration="1812000" />
-      <workItem from="1688452478690" duration="4825000" />
+      <workItem from="1688452478690" duration="5126000" />
     </task>
     <task id="LOCAL-00056" summary="enumerate function and short hand function">
       <created>1684060718881</created>
