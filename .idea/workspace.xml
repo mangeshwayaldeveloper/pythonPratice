@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="decorators">
+      <change afterPath="$PROJECT_DIR$/pythonPratice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/classRevision.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/classRevision.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPs/classWithFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPs/classWithFunction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +310,8 @@
       <workItem from="1687315319054" duration="1119000" />
       <workItem from="1687316570534" duration="649000" />
       <workItem from="1687453449836" duration="155000" />
-      <workItem from="1688394203853" duration="1227000" />
+      <workItem from="1688394203853" duration="1788000" />
+      <workItem from="1688396064452" duration="264000" />
     </task>
     <task id="LOCAL-00056" summary="enumerate function and short hand function">
       <created>1684060718881</created>
@@ -793,6 +793,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$MultiLineStrin.coverage" NAME="MultiLineStrin Coverage Results" MODIFIED="1680324890333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonPractise$String.coverage" NAME="String Coverage Results" MODIFIED="1680323879828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonPractise$count_letters_dictionary.coverage" NAME="count_letters_dictionary Coverage Results" MODIFIED="1685271631339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
+    <SUITE FILE_PATH="coverage/PythonPractise$constructorEx.coverage" NAME="constructorEx Coverage Results" MODIFIED="1688395575982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
     <SUITE FILE_PATH="coverage/PythonPractise$DocString.coverage" NAME="DocString Coverage Results" MODIFIED="1680961013725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonPractise$StringSlicing.coverage" NAME="StringSlicing Coverage Results" MODIFIED="1680339198931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonPractise$checkIfItemExists.coverage" NAME="checkIfItemExists Coverage Results" MODIFIED="1681996062747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
