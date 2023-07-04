@@ -8,5 +8,12 @@ class Myclass:
  def ten_value(self):
   return 10*self.value
 
+ @ten_value.setter
+ def ten_value(self,new_value):
+  self.value=new_value
+
+
 a=Myclass(10)
 print(a.ten_value)
+a.ten_value=345
+print(a.value)
