@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="getter and setter">
-      <change afterPath="$PROJECT_DIR$/OOPs/inheritance/inheritance_first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_functions/nestedFunctionsPractise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonPratice" beforeDir="false" afterPath="$PROJECT_DIR$/pythonPratice" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <recent name="C:\Users\mange\PycharmProjects\PythonPractise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.decoratorsPractise">
+  <component name="RunManager" selected="Python.nestedFunctionsPractise">
     <configuration name="chaingin_two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,28 +85,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decoraters/chaingin_two.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chaining_decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Decoraters" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decoraters/chaining_decorators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,13 +159,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nestedFunctionsPractise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nested_functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nested_functions/nestedFunctionsPractise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nestedFunctionsPractise" />
         <item itemvalue="Python.decoratorsPractise" />
         <item itemvalue="Python.getter_setter_ex_2" />
         <item itemvalue="Python.getter_setter_first" />
         <item itemvalue="Python.chaingin_two" />
-        <item itemvalue="Python.chaining_decorators" />
       </list>
     </recent_temporary>
   </component>
@@ -316,6 +315,7 @@
       <workItem from="1688445631713" duration="1812000" />
       <workItem from="1688452478690" duration="12782000" />
       <workItem from="1688492942698" duration="1204000" />
+      <workItem from="1688994095700" duration="474000" />
     </task>
     <task id="LOCAL-00056" summary="enumerate function and short hand function">
       <created>1684060718881</created>
@@ -793,6 +793,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$recursion_power_base.coverage" NAME="recursion_power_base Coverage Results" MODIFIED="1683889045506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
     <SUITE FILE_PATH="coverage/PythonPractise$file_handing.coverage" NAME="file_handing Coverage Results" MODIFIED="1685363952012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
     <SUITE FILE_PATH="coverage/PythonPractise$clear.coverage" NAME="clear Coverage Results" MODIFIED="1681995939413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
+    <SUITE FILE_PATH="coverage/PythonPractise$decoratorsPractise.coverage" NAME="decoratorsPractise Coverage Results" MODIFIED="1688994287380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decoraters" />
     <SUITE FILE_PATH="coverage/PythonPractise$diction.coverage" NAME="diction Coverage Results" MODIFIED="1683693995550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
     <SUITE FILE_PATH="coverage/PythonPractise$printting_key_value.coverage" NAME="printting_key_value Coverage Results" MODIFIED="1683695670698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary" />
     <SUITE FILE_PATH="coverage/PythonPractise$Question5_multilplication_table.coverage" NAME="Question5_multilplication_table Coverage Results" MODIFIED="1686386705407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assingment" />
@@ -856,6 +857,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$passing_function_two.coverage" NAME="passing_function_two Coverage Results" MODIFIED="1688460897077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_functions" />
     <SUITE FILE_PATH="coverage/PythonPractise$replaceFile_list.coverage" NAME="replaceFile_list Coverage Results" MODIFIED="1685267253941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
     <SUITE FILE_PATH="coverage/PythonPractise$MultiLineStrin.coverage" NAME="MultiLineStrin Coverage Results" MODIFIED="1680324890333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$nestedFunctionsPractise.coverage" NAME="nestedFunctionsPractise Coverage Results" MODIFIED="1688994571380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_functions" />
     <SUITE FILE_PATH="coverage/PythonPractise$count_letters_dictionary.coverage" NAME="count_letters_dictionary Coverage Results" MODIFIED="1685271631339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
     <SUITE FILE_PATH="coverage/PythonPractise$constructorEx.coverage" NAME="constructorEx Coverage Results" MODIFIED="1688445903116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
     <SUITE FILE_PATH="coverage/PythonPractise$DocString.coverage" NAME="DocString Coverage Results" MODIFIED="1680961013725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
