@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="getter and setter">
-      <change afterPath="$PROJECT_DIR$/Decoraters/decorators_pr_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="getter and setter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -315,7 +312,7 @@
       <workItem from="1688445631713" duration="1812000" />
       <workItem from="1688452478690" duration="12782000" />
       <workItem from="1688492942698" duration="1204000" />
-      <workItem from="1688994095700" duration="1891000" />
+      <workItem from="1688994095700" duration="2842000" />
     </task>
     <task id="LOCAL-00056" summary="enumerate function and short hand function">
       <created>1684060718881</created>
