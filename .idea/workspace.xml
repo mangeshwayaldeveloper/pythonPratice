@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="getter and setter">
-      <change afterPath="$PROJECT_DIR$/OOPs/access_modifiers/public.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="getter and setter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,7 +313,7 @@
       <workItem from="1688452478690" duration="12782000" />
       <workItem from="1688492942698" duration="1204000" />
       <workItem from="1688994095700" duration="4457000" />
-      <workItem from="1689091729812" duration="5984000" />
+      <workItem from="1689091729812" duration="6577000" />
     </task>
     <task id="LOCAL-00056" summary="enumerate function and short hand function">
       <created>1684060718881</created>
@@ -734,7 +731,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$is.coverage" NAME="is Coverage Results" MODIFIED="1685642909896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Map,Filter,reduce,is" />
     <SUITE FILE_PATH="coverage/PythonPractise$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1683871854631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
     <SUITE FILE_PATH="coverage/PythonPractise$whileLoop.coverage" NAME="whileLoop Coverage Results" MODIFIED="1682518315485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
-    <SUITE FILE_PATH="coverage/PythonPractise$public.coverage" NAME="public Coverage Results" MODIFIED="1689099433969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs/access_modifiers" />
+    <SUITE FILE_PATH="coverage/PythonPractise$public.coverage" NAME="public Coverage Results" MODIFIED="1689099444853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs/access_modifiers" />
     <SUITE FILE_PATH="coverage/PythonPractise$ClassObject.coverage" NAME="ClassObject Coverage Results" MODIFIED="1686681356118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
     <SUITE FILE_PATH="coverage/PythonPractise$Question7_lambda.coverage" NAME="Question7_lambda Coverage Results" MODIFIED="1686386758683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assingment" />
     <SUITE FILE_PATH="coverage/PythonPractise$append.coverage" NAME="append Coverage Results" MODIFIED="1683529606472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
@@ -787,6 +784,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$constructorPractise.coverage" NAME="constructorPractise Coverage Results" MODIFIED="1686851654787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonPractise$writeLine.coverage" NAME="writeLine Coverage Results" MODIFIED="1685442184728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
     <SUITE FILE_PATH="coverage/PythonPractise$truncate.coverage" NAME="truncate Coverage Results" MODIFIED="1685443834133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
+    <SUITE FILE_PATH="coverage/PythonPractise$private.coverage" NAME="private Coverage Results" MODIFIED="1689099691300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs/access_modifiers" />
     <SUITE FILE_PATH="coverage/PythonPractise$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1685266054930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coursera" />
     <SUITE FILE_PATH="coverage/PythonPractise$class_first.coverage" NAME="class_first Coverage Results" MODIFIED="1685277630307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
     <SUITE FILE_PATH="coverage/PythonPractise$StringMethods.coverage" NAME="StringMethods Coverage Results" MODIFIED="1680519955969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

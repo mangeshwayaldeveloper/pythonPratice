@@ -4,3 +4,4 @@ class emp:
 
 a=emp()
 print(a._emp__name)
+print(a.__dir__())
