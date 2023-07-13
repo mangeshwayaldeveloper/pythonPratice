@@ -1,6 +1,8 @@
+
 def outer(y):
+ s=90
  def inner(x):
-  return x*y
+  return x+y+s
  return inner
 
 add=outer(45)

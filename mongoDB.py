@@ -13,14 +13,14 @@ inserts = [
  {'_id': 1, 'name': 'mangesh', 'rollno': 432, 'age': 22},
  {'_id': 2, 'name': 'Shubham', 'rollno': 365, 'age': 23},
  {'_id': 3, 'name': 'Ashish Dalle', 'rollno': 369, 'age': 21},
- {'_id': 4, 'name': 'Sumit Jadi Gand', 'rollno': 345, 'age': 21},
+ {'_id': 4, 'name': 'Sumit ', 'rollno': 345, 'age': 21},
  {'_id': 5, 'name': 'vinay', 'rollno': 418, 'age': 22}
 ]
 
 # collection.insert_many(inserts)
 
 # update
-# prev = {'name': "Sumit Jadi Gand"}
+# prev = {'name': "Sumit"}
 # nexts = {"$set": {'name': 'sumit'}}
 # upt = collection.update_many(prev, nexts)
 # print(upt)

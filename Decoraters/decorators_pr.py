@@ -5,7 +5,9 @@ def gree(fx):
   print("Thanks for using this")
  return greeting
 
+@gree
 def newf():
  print("Hey there this is the new function")
 
-gree(newf)()
+# gree(newf)()
+newf()
