@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="getter and setter">
-      <change afterPath="$PROJECT_DIR$/Assingment/Assignment 2/Question1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assingment/question10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decoraters/sqrtofnum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDBfinal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb/insert_many.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongodb_final.py" afterDir="false" />
+    <list default="true" id="a136df00-7daa-40d3-b9e8-f95405e1af2a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decoraters/decorators_pr.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decoraters/decorators_pr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongoDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/mongoDB.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested_functions/multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_functions/multiplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assingment/Assignment 2/Question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assingment/Assignment 2/Question10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +33,6 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
   "associatedIndex": -1
 }]]></component>
   <component name="ProjectId" id="2NmGOA42xyGN6bLGTOwFZoynZqg" />
@@ -82,8 +73,9 @@
       <recent name="C:\Users\mange\PycharmProjects\PythonPractise" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Question1">
-    <configuration name="Question1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Question10 (1)">
+    <configuration name="Question10 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -94,9 +86,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assingment/Assignment 2/Question1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assingment/Assignment 2/Question10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Question10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assingment/Assignment 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\mange\PycharmProjects\PythonPractise\Assingment\Assignment 2\Question10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,35 +184,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sqrtofnum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Decoraters" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decoraters/sqrtofnum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Question1" />
+        <item itemvalue="Python.Question10 (1)" />
+        <item itemvalue="Python.Question10" />
         <item itemvalue="Python.generator" />
         <item itemvalue="Python.decorators_pr" />
         <item itemvalue="Python.insert_many" />
-        <item itemvalue="Python.sqrtofnum" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +328,8 @@
       <workItem from="1690143966376" duration="2032000" />
       <workItem from="1690570162741" duration="752000" />
       <workItem from="1690779174586" duration="222000" />
-      <workItem from="1690779552830" duration="694000" />
+      <workItem from="1690779552830" duration="1006000" />
+      <workItem from="1690780578405" duration="127000" />
     </task>
     <task id="LOCAL-00056" summary="enumerate function and short hand function">
       <created>1684060718881</created>
@@ -756,6 +748,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$lambda_functions.coverage" NAME="lambda_functions Coverage Results" MODIFIED="1685535336077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lambda Function" />
     <SUITE FILE_PATH="coverage/PythonPractise$with_file.coverage" NAME="with_file Coverage Results" MODIFIED="1685365764945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
     <SUITE FILE_PATH="coverage/PythonPractise$varArgsKey.coverage" NAME="varArgsKey Coverage Results" MODIFIED="1680844762822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$QuestionTen__1_.coverage" NAME="QuestionTen (1) Coverage Results" MODIFIED="1690780670829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assingment/Assignment 2" />
     <SUITE FILE_PATH="coverage/PythonPractise$Concatinating.coverage" NAME="Concatinating Coverage Results" MODIFIED="1680934386152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ListsProgram" />
     <SUITE FILE_PATH="coverage/PythonPractise$constructor_practise.coverage" NAME="constructor_practise Coverage Results" MODIFIED="1689000188111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPs" />
     <SUITE FILE_PATH="coverage/PythonPractise$finally_block.coverage" NAME="finally_block Coverage Results" MODIFIED="1684054982145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -858,6 +851,7 @@
     <SUITE FILE_PATH="coverage/PythonPractise$nestedFun1.coverage" NAME="nestedFun1 Coverage Results" MODIFIED="1688456089662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nested_functions" />
     <SUITE FILE_PATH="coverage/PythonPractise$decorator_example2.coverage" NAME="decorator_example2 Coverage Results" MODIFIED="1688477351773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Decoraters" />
     <SUITE FILE_PATH="coverage/PythonPractise$VariableLengthArguments.coverage" NAME="VariableLengthArguments Coverage Results" MODIFIED="1680790938547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPractise$QuestionTen.coverage" NAME="QuestionTen Coverage Results" MODIFIED="1690780691931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assingment/Assignment 2" />
     <SUITE FILE_PATH="coverage/PythonPractise$Symmetric_difference.coverage" NAME="Symmetric_difference Coverage Results" MODIFIED="1681552194400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sets" />
     <SUITE FILE_PATH="coverage/PythonPractise$writing_file.coverage" NAME="writing file Coverage Results" MODIFIED="1685364902743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File_Handling" />
     <SUITE FILE_PATH="coverage/PythonPractise$pattern3.coverage" NAME="pattern3 Coverage Results" MODIFIED="1684432790678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
